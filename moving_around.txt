@@ -1,7 +1,7 @@
 ds'dsds'lds
 ls
 pwd
-cd 
+cd
 history | less
 history
 clear
@@ -45,11 +45,11 @@ git config --global user.name 'Wyatt Williams'
 brew install git
 echo $PATH
 subl /etc/paths
-echo $EDITOR 
+echo $EDITOR
 subl ~/.config/fish/config.fish
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 brew info fish
-uname 
+uname
 un
 cd /home/
 echo $EDITOR
@@ -62,13 +62,13 @@ brew update
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
 uname
 ls
-ls moving_around.txt 
+ls moving_around.txt
 ls -t
 ls -l
 history > moving_around.txt
 ds'dsds'lds
 pwd
-cd 
+cd
 history | less
 history
 clear
@@ -107,14 +107,16 @@ curl -fsSL http://git.io/QxUaOQ | sh
 curl -fsSL http://git.io/7UHtNA | sh
 git config --global user.email 'williams.wyatt@gmail.com'
 git config --global user.name 'Wyatt Williams'
+
+# Learning how to git
 brew install git
 echo $PATH
 subl /etc/paths
-echo $EDITOR 
+echo $EDITOR
 subl ~/.config/fish/config.fish
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 brew info fish
-uname 
+uname
 un
 cd /home/
 echo $EDITOR
